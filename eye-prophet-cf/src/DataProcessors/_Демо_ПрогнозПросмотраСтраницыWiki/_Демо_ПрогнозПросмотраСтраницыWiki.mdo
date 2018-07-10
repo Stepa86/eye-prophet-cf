@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="12d41e01-b041-44f0-b01e-dfdcb7d70371">
+  <producedTypes>
+    <objectType typeId="9d5495ac-2e24-42ec-98af-a3cc35017304" valueTypeId="ea168fb1-51a7-4fe6-8614-7616830bf72c"/>
+    <managerType typeId="02e09022-2ef9-41a0-805e-cf984a551e83" valueTypeId="aee09599-d844-4f03-8854-ec02e0111c1d"/>
+  </producedTypes>
+  <name>_Демо_ПрогнозПросмотраСтраницыWiki</name>
+  <synonym>
+    <key>ru</key>
+    <value>Демо прогноз просмотра страницы wiki</value>
+  </synonym>
+  <comment></comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor._Демо_ПрогнозПросмотраСтраницыWiki.Form.Форма</defaultForm>
+  <forms uuid="8adc2983-662d-46f4-ac21-db4cbc9d5db1">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

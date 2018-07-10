@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ada40517-aad3-408d-ac7d-6d486311d16a">
+  <name>_Пророк</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пророк</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>CommonModule._Пророк</content>
+  <content>CommonModule._ОбщегоНазначения</content>
+</mdclass:Subsystem>

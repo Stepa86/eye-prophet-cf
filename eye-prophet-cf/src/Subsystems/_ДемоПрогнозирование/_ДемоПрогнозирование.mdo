@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c7c3b564-8c45-4d67-bf09-d9d6438de5a6">
+  <name>_ДемоПрогнозирование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Демо прогнозирование</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>DataProcessor._Демо_ПрогнозПросмотраСтраницыWiki</content>
+</mdclass:Subsystem>
