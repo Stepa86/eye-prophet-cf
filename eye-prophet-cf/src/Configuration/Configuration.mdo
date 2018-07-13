@@ -14,7 +14,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor></vendor>
-  <version>0.1.0.2</version>
+  <version>0.1.0.3</version>
   <updateCatalogAddress></updateCatalogAddress>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <dataLockControlMode>Managed</dataLockControlMode>
