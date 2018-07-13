@@ -3,4 +3,4 @@
 
 Для разработки используется EDT 1.8.4.9
 
-Для импорта проекта используйте документацию EDT https://its.1c.ru/db/edt16doc#content:267:hdoc
+Для импорта проекта используйте документацию EDT https://its.1c.ru/db/edtdoc#content:10027:hdoc
